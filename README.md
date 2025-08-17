@@ -19,7 +19,7 @@ deploy-spamboteploy-spamboteploy-spambotp align="center">
 
 # Deploy on heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]https://github.com/Cxan2006/SpamBot/https/Rizoel)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)(https://github.com/MrRizoel/Spambot)
 
 > kindly Watch [this video](https://t.me/Resourcez/9) for deploy process 
 
